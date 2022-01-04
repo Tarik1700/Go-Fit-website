@@ -8,6 +8,10 @@ module.exports = {
         tilt: 'tilt 3s infinite linear',
         dash: "dash 1.5s ease-in-out alternate backwards infinite",
         dashneg: "dashneg 1.5s ease-in-out alternate forwards",
+<<<<<<< Updated upstream
+=======
+        dashnegtwo: "dashnegtwo 1.5s ease-in-out alternate forwards",
+>>>>>>> Stashed changes
       },
       keyframes: {
         tilt: {
@@ -37,6 +41,16 @@ module.exports = {
           'to': {
             'stroke-dashoffset': '342.269775390625',
           },
+<<<<<<< Updated upstream
+=======
+        },
+
+        dashnegtwo: {
+          
+          'to': {
+            'stroke-dashoffset': '0',
+          },
+>>>>>>> Stashed changes
         }
           
       },
