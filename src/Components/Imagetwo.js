@@ -93,7 +93,7 @@ const Imagetwo = () => {
         
     return (
       <div>
-        <div id="gallery" className=" hidden md:relative md:container md:h-full  text-black">
+        <div id="gallery" className=" hidden md:inline md:relative md:container md:h-full  text-black">
             <div className='trigger h-5 text-[8rem] w-full font-semibold'> GOFITGOFITGOFITGOFITGOFITGOFITGOFITGOFITGOFITGOFITGOFITGOFITGOFITGOFITGOFIT</div>
             <div id="testing" className="  flex pt-48 px-2 mx-auto gap-x-4  w-[140rem] h-[23rem] md:w-[140rem] md:h-[34rem]">
            

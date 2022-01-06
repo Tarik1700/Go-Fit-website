@@ -70,7 +70,7 @@ const Parallaxtry = () => {
   
 </section>
     </div>
-  <div className="bg-[#796046] z-20 md:w-1/2 md:h-full  text-3xl text-semibold p-5 ">
+  <div className="bg-[#796046] z-20 md:w-1/2 md:h-full  text-3xl text-semibold p-0 ">
     <div className="items-center relative top-28 md:top-32 justify-center ">
        <svg className="[stroke:white;]
                 [stroke-width:0.8px;]
@@ -143,7 +143,7 @@ const Parallaxtry = () => {
   
 </section>
     </div>
-  <div className="bg-[#534334] z-20 md:w-1/2 md:h-full  text-3xl text-semibold p-5 ">
+  <div className="bg-[#534334] z-20 md:w-1/2 md:h-full  text-3xl text-semibold p-0 ">
     <div className="items-center relative top-28 md:top-32 justify-center ">
     <svg className="[stroke:white;]
                 [stroke-width:0.8px;]
@@ -178,7 +178,7 @@ const Parallaxtry = () => {
   
 </section>
     </div>
-  <div className="bg-[#796046] z-20 md:w-1/2 md:h-full  text-3xl text-semibold p-5 ">
+  <div className="bg-[#796046] z-20 md:w-1/2 md:h-full  text-3xl text-semibold p-0 ">
     <div className="items-center relative top-28 md:top-32 justify-center ">
        <svg className="[stroke:white;]
                 [stroke-width:0.8px;]
@@ -192,7 +192,7 @@ const Parallaxtry = () => {
                     
                      hover:animate-dashnegtwo
 
-    items-center relative transition-all duration-300 justify-center flex mx-auto h-[30vh] lg:h-full rotate-90" id="Capa_1" xmlns="http://www.w3.org/2000/svg"  width="400px" height="400px"
+    items-center relative transition-all duration-300 justify-center flex -mt-14 mx-auto h-[30vh] lg:h-full rotate-90" id="Capa_1" xmlns="http://www.w3.org/2000/svg"  width="400px" height="400px"
 	 viewBox="0 0 181.115 181.115">
 <path id="svg" d="M11.688,181.115c-0.641,0-1.281-0.245-1.768-0.732l-9.188-9.188c-0.943-0.943-0.979-2.459-0.084-3.447l13.332-14.699
 	l-9.001-9.001c-2.364-2.364-2.364-6.21,0-8.574l7.404-7.404c0.255-0.255,0.527-0.484,0.816-0.687l-4.397-4.397
@@ -256,7 +256,7 @@ const Parallaxtry = () => {
   
 </section>
     </div>
-  <div className="bg-[#534334] z-20 md:w-1/2 md:h-full  text-3xl text-semibold p-5 ">
+  <div className="bg-[#534334] z-20 md:w-1/2 md:h-full  text-3xl text-semibold p-0 ">
     <div className="items-center relative top-28 md:top-32 justify-center ">
     <svg className="[stroke:white;]
                 [stroke-width:0.8px;]
@@ -271,7 +271,7 @@ const Parallaxtry = () => {
                      hover:animate-dash
     items-center relative  justify-center flex mx-auto h-[30vh] lg:h-full " width="400px" height="400px" viewBox="0 0 64 64" data-name="Layer 1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"><defs></defs><title/><path class="cls-1" d="M32,53.55A17,17,0,0,1,17.45,27.86a15.49,15.49,0,0,1-.23-2.63,14.78,14.78,0,0,1,29.56,0,15.49,15.49,0,0,1-.23,2.63A17,17,0,0,1,32,53.55Zm0-41.1a12.79,12.79,0,0,0-12.51,15.4,1,1,0,0,1-.14.74,15,15,0,1,0,25.3,0,1,1,0,0,1-.14-.74A12.79,12.79,0,0,0,32,12.45ZM42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M32.93,49.16h-.06C20.88,48.47,20,37.4,20,37.29a1,1,0,1,1,2-.12h0c0,.38.76,9.41,11,10a1,1,0,0,1-.06,2Z"/></svg>
     </div>
-      <h1 className=" text-2xl lg:text-5xl text-center py-3 justify-center items-center flex h-full pt-28 md:pt-56 ">
+      <h1 className=" text-2xl lg:text-5xl text-center py-3  justify-center items-center flex h-full pt-28 md:pt-36 ">
       Self-defense training
       </h1>
       <p className=" text-2xl lg:text-4xl text-center py-3  px-4 md:px-16 justify-center items-center flex h-full my-auto mx-auto lg:leading-normal">
