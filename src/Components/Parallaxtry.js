@@ -4,9 +4,9 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import image10 from './img/gym9.jpg' 
 import image9 from './img/background1.jpg' 
 import image11 from './img/gymlong1.jpg' 
-import image12 from './img/gymlong2.jpg' 
+import image12 from './img/blackbg3.jpg' 
 import image4 from './img/gymbannwif.png'
-import image3 from './img/blackbg.jpg'
+import image3 from './img/blackbg2.jpg'
 
 
 
@@ -42,7 +42,7 @@ const Parallaxtry = () => {
         
         
         else {
-          section.bg.style.backgroundPosition = "50% 0px"; 
+          section.bg.style.backgroundPosition = "50% -800px"; 
       
           gsap.to(section.bg, {
             backgroundPosition: `50% ${window.innerHeight / 2}px`,
@@ -58,7 +58,7 @@ const Parallaxtry = () => {
       });
     });
     return (
-        <div className="z-20">
+        <div id="aboutus" className="z-20">
             <div className=" absolute  left-0 right-1/2 h-[100vh]">
            
             </div>
@@ -84,7 +84,7 @@ const Parallaxtry = () => {
                     
                      hover:animate-dashnegtwo
 
-    items-center relative transition-all duration-300 justify-center flex mx-auto h-[30vh] lg:h-full " id="Capa_1" xmlns="http://www.w3.org/2000/svg"  width="300px" height="300px"
+    items-center relative transition-all duration-300 justify-center flex mx-auto h-[30vh] lg:h-full " id="Capa_1" xmlns="http://www.w3.org/2000/svg"  width="400px" height="400px"
 	 viewBox="0 0 181.115 181.115">
 <path id="svg" d="M11.688,181.115c-0.641,0-1.281-0.245-1.768-0.732l-9.188-9.188c-0.943-0.943-0.979-2.459-0.084-3.447l13.332-14.699
 	l-9.001-9.001c-2.364-2.364-2.364-6.21,0-8.574l7.404-7.404c0.255-0.255,0.527-0.484,0.816-0.687l-4.397-4.397
@@ -124,12 +124,12 @@ const Parallaxtry = () => {
 
 
     </div>
-      <h1 className=" text-2xl lg:text-4xl text-center py-3 justify-center items-center flex h-full pt-28 md:pt-64 ">
-      Lorem ipsum dolor sit
+      <h1 className=" text-2xl lg:text-5xl text-center py-3 justify-center items-center flex h-full pt-28 md:pt-64 ">
+      The best training equpiment
       </h1>
-      <p className=" text-2xl lg:text-4xl text-center py-3  px-4 md:px-16 justify-center items-center flex h-full my-auto mx-auto leading-relaxed">
-    amet, consectetur adipiscing elit. Aliquam mi turpis, mattis viverra dui eget, sollicitudin tincidunt nisl. Nunc tortor eros, 
-    convallis eget hendrerit eu, dignissim non odio. 
+      <p className=" text-2xl lg:text-4xl text-center py-3  px-4 md:px-16 justify-center items-center flex h-full my-auto mx-auto lg:leading-normal">
+    Our gym provides only the best machines, equipment and training that you could ever need. Every workout is possible for every
+    part of the body  
       </p>
     </div>
     </div>
@@ -156,14 +156,15 @@ const Parallaxtry = () => {
                     hover:[stroke-dasharray:342.269775390625px;]
                      hover:[stroke-dashoffset:-342.269775390625px;]
                      hover:animate-dash
-    items-center relative  justify-center flex mx-auto h-[30vh] lg:h-full " width="300px" height="300px" viewBox="0 0 64 64" data-name="Layer 1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"><defs></defs><title/><path class="cls-1" d="M32,53.55A17,17,0,0,1,17.45,27.86a15.49,15.49,0,0,1-.23-2.63,14.78,14.78,0,0,1,29.56,0,15.49,15.49,0,0,1-.23,2.63A17,17,0,0,1,32,53.55Zm0-41.1a12.79,12.79,0,0,0-12.51,15.4,1,1,0,0,1-.14.74,15,15,0,1,0,25.3,0,1,1,0,0,1-.14-.74A12.79,12.79,0,0,0,32,12.45ZM42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M32.93,49.16h-.06C20.88,48.47,20,37.4,20,37.29a1,1,0,1,1,2-.12h0c0,.38.76,9.41,11,10a1,1,0,0,1-.06,2Z"/></svg>
+    items-center relative  justify-center flex mx-auto h-[30vh] lg:h-full " width="400px" height="400px" viewBox="0 0 64 64" data-name="Layer 1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"><defs></defs><title/><path class="cls-1" d="M32,53.55A17,17,0,0,1,17.45,27.86a15.49,15.49,0,0,1-.23-2.63,14.78,14.78,0,0,1,29.56,0,15.49,15.49,0,0,1-.23,2.63A17,17,0,0,1,32,53.55Zm0-41.1a12.79,12.79,0,0,0-12.51,15.4,1,1,0,0,1-.14.74,15,15,0,1,0,25.3,0,1,1,0,0,1-.14-.74A12.79,12.79,0,0,0,32,12.45ZM42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M32.93,49.16h-.06C20.88,48.47,20,37.4,20,37.29a1,1,0,1,1,2-.12h0c0,.38.76,9.41,11,10a1,1,0,0,1-.06,2Z"/></svg>
     </div>
-      <h1 className=" text-2xl lg:text-4xl text-center py-3 justify-center items-center flex h-full pt-28 md:pt-64 ">
-      Lorem ipsum dolor sit
+      <h1 className=" text-2xl lg:text-5xl text-center py-3 justify-center items-center flex h-full pt-28 md:pt-64 ">
+      Get the body you always wanted!
       </h1>
-      <p className=" text-2xl lg:text-4xl text-center py-3  px-4 md:px-16 justify-center items-center flex h-full my-auto mx-auto leading-relaxed">
-    amet, consectetur adipiscing elit. Aliquam mi turpis, mattis viverra dui eget, sollicitudin tincidunt nisl. Nunc tortor eros, 
-    convallis eget hendrerit eu, dignissim non odio. 
+      <p className=" text-2xl lg:text-4xl text-center py-3  px-4 md:px-16 justify-center items-center flex h-full my-auto mx-auto lg:leading-normal">
+    
+    Nothing is free in life, YOU have to work for everything. The personal trainers in our gym will ensure that you get the results
+    and the body you always desired  
       </p>
     </div>
     </div>
@@ -191,7 +192,7 @@ const Parallaxtry = () => {
                     
                      hover:animate-dashnegtwo
 
-    items-center relative transition-all duration-300 justify-center flex mx-auto h-[30vh] lg:h-full rotate-90" id="Capa_1" xmlns="http://www.w3.org/2000/svg"  width="300px" height="300px"
+    items-center relative transition-all duration-300 justify-center flex mx-auto h-[30vh] lg:h-full rotate-90" id="Capa_1" xmlns="http://www.w3.org/2000/svg"  width="400px" height="400px"
 	 viewBox="0 0 181.115 181.115">
 <path id="svg" d="M11.688,181.115c-0.641,0-1.281-0.245-1.768-0.732l-9.188-9.188c-0.943-0.943-0.979-2.459-0.084-3.447l13.332-14.699
 	l-9.001-9.001c-2.364-2.364-2.364-6.21,0-8.574l7.404-7.404c0.255-0.255,0.527-0.484,0.816-0.687l-4.397-4.397
@@ -231,12 +232,17 @@ const Parallaxtry = () => {
 
 
     </div>
-      <h1 className=" text-2xl lg:text-4xl text-center py-3 justify-center items-center flex h-full pt-28 md:pt-64 ">
-      Lorem ipsum dolor sit
+      <h1 className=" text-2xl lg:text-5xl text-center py-4 justify-center items-center flex h-full pt-28 md:pt-52  ">
+      What do we offer at GO-FIT?
       </h1>
-      <p className=" text-2xl lg:text-4xl text-center py-3  px-4 md:px-16 justify-center items-center flex h-full my-auto mx-auto leading-relaxed">
-    amet, consectetur adipiscing elit. Aliquam mi turpis, mattis viverra dui eget, sollicitudin tincidunt nisl. Nunc tortor eros, 
-    convallis eget hendrerit eu, dignissim non odio. 
+      <p className=" text-2xl lg:text-4xl text-center py-2  px-4 md:px-8 justify-center items-center flex h-full my-auto mx-auto lg:leading-normal">
+    <ul>
+      <li>Individual functional training sessions ( 1 on 1 )</li>
+      <li>Semiindividual functional training sessions ( 2 on 1 )</li>
+      <li>Functional training sessions in small groups ( 6 on 1 )</li>
+      <li>Group training sessions at 3 timeslots 3 times a week</li>
+      <li>A healthy meal ( oatmeal ) rich with nutritious ingrediends</li>
+    </ul>
       </p>
     </div>
     </div>
@@ -263,14 +269,15 @@ const Parallaxtry = () => {
                     hover:[stroke-dasharray:342.269775390625px;]
                      hover:[stroke-dashoffset:-342.269775390625px;]
                      hover:animate-dash
-    items-center relative  justify-center flex mx-auto h-[30vh] lg:h-full " width="300px" height="300px" viewBox="0 0 64 64" data-name="Layer 1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"><defs></defs><title/><path class="cls-1" d="M32,53.55A17,17,0,0,1,17.45,27.86a15.49,15.49,0,0,1-.23-2.63,14.78,14.78,0,0,1,29.56,0,15.49,15.49,0,0,1-.23,2.63A17,17,0,0,1,32,53.55Zm0-41.1a12.79,12.79,0,0,0-12.51,15.4,1,1,0,0,1-.14.74,15,15,0,1,0,25.3,0,1,1,0,0,1-.14-.74A12.79,12.79,0,0,0,32,12.45ZM42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M32.93,49.16h-.06C20.88,48.47,20,37.4,20,37.29a1,1,0,1,1,2-.12h0c0,.38.76,9.41,11,10a1,1,0,0,1-.06,2Z"/></svg>
+    items-center relative  justify-center flex mx-auto h-[30vh] lg:h-full " width="400px" height="400px" viewBox="0 0 64 64" data-name="Layer 1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"><defs></defs><title/><path class="cls-1" d="M32,53.55A17,17,0,0,1,17.45,27.86a15.49,15.49,0,0,1-.23-2.63,14.78,14.78,0,0,1,29.56,0,15.49,15.49,0,0,1-.23,2.63A17,17,0,0,1,32,53.55Zm0-41.1a12.79,12.79,0,0,0-12.51,15.4,1,1,0,0,1-.14.74,15,15,0,1,0,25.3,0,1,1,0,0,1-.14-.74A12.79,12.79,0,0,0,32,12.45ZM42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M42.77,25.8a1,1,0,0,1-.68-.26,14.95,14.95,0,0,0-20.18,0,1,1,0,0,1-1.68-.78,11.78,11.78,0,0,1,23.54,0,1,1,0,0,1-.58.95A1,1,0,0,1,42.77,25.8ZM32,19.62a16.88,16.88,0,0,1,9.38,2.83,9.78,9.78,0,0,0-18.76,0A16.88,16.88,0,0,1,32,19.62Z"/><path class="cls-1" d="M32.93,49.16h-.06C20.88,48.47,20,37.4,20,37.29a1,1,0,1,1,2-.12h0c0,.38.76,9.41,11,10a1,1,0,0,1-.06,2Z"/></svg>
     </div>
-      <h1 className=" text-2xl lg:text-4xl text-center py-3 justify-center items-center flex h-full pt-28 md:pt-64 ">
-      Lorem ipsum dolor sit
+      <h1 className=" text-2xl lg:text-5xl text-center py-3 justify-center items-center flex h-full pt-28 md:pt-56 ">
+      Self-defense training
       </h1>
-      <p className=" text-2xl lg:text-4xl text-center py-3  px-4 md:px-16 justify-center items-center flex h-full my-auto mx-auto leading-relaxed">
-    amet, consectetur adipiscing elit. Aliquam mi turpis, mattis viverra dui eget, sollicitudin tincidunt nisl. Nunc tortor eros, 
-    convallis eget hendrerit eu, dignissim non odio. 
+      <p className=" text-2xl lg:text-4xl text-center py-3  px-4 md:px-16 justify-center items-center flex h-full my-auto mx-auto lg:leading-normal">
+     
+    Our newest addition is the GO-FIT self-defense training program for men and women. It was specially designed to introduce you to
+    the basic concepts of personal physical defense and to teach you techniques of self-defense which you can use in your every-day life
       </p>
     </div>
     </div>

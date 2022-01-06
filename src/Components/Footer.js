@@ -35,16 +35,16 @@ viewBox="0 0 50 50">    <path d="M25,3C12.85,3,3,12.85,3,25c0,11.03,8.125,20.137
             <span class="block uppercase text-blueGray-500 text-sm font-semibold mb-2">Useful Links</span>
             <ul class="list-unstyled">
               <li>
-                <a class=" hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="">About Us</a>
+                <a class=" hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#home">Home</a>
               </li>
               <li>
-                <a class=" hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="">Blog</a>
+                <a class=" hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#gallery">Gallery</a>
               </li>
               <li>
-                <a class="hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="">Github</a>
+                <a class="hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#aboutus">About Us</a>
               </li>
               <li>
-                <a class=" hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="">Free Products</a>
+                <a class=" hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#contact">Location</a>
               </li>
             </ul>
           </div>
