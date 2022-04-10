@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Go-Fit-website/static/css/main.d528b155.css",
+    "main.js": "/Go-Fit-website/static/js/main.36cbc982.js",
+    "static/js/787.fb80194e.chunk.js": "/Go-Fit-website/static/js/787.fb80194e.chunk.js",
+    "static/media/gymbannwif.png": "/Go-Fit-website/static/media/gymbannwif.cf5530c4fc4e444dacb4.png",
+    "static/media/gymlong2.jpg": "/Go-Fit-website/static/media/gymlong2.db51bb7aade08382b347.jpg",
+    "static/media/gymlong1.jpg": "/Go-Fit-website/static/media/gymlong1.59032f18b10eee5e7156.jpg",
+    "static/media/background.jpg": "/Go-Fit-website/static/media/background.82356f7e949493fab398.jpg",
+    "static/media/whitebg.jpg": "/Go-Fit-website/static/media/whitebg.3657b5fa81b4a46e4aa8.jpg",
+    "static/media/background1.jpg": "/Go-Fit-website/static/media/background1.584354cf3649f37a7ad4.jpg",
+    "static/media/blackbg2.jpg": "/Go-Fit-website/static/media/blackbg2.191a0d612c1390140544.jpg",
+    "static/media/blackbg.jpg": "/Go-Fit-website/static/media/blackbg.18286314f17a542f7135.jpg",
+    "static/media/blackbg3.jpg": "/Go-Fit-website/static/media/blackbg3.cfd51ccaec0b553755ec.jpg",
+    "static/media/gym9.jpg": "/Go-Fit-website/static/media/gym9.df0c4744b6571409dbb1.jpg",
+    "static/media/gym3.jpg": "/Go-Fit-website/static/media/gym3.542e7cea424638716a26.jpg",
+    "static/media/gym4.jpg": "/Go-Fit-website/static/media/gym4.1c03a10648fda5954153.jpg",
+    "static/media/gym5.jpg": "/Go-Fit-website/static/media/gym5.9eb28ce2b7229c6d5131.jpg",
+    "static/media/gym2.jpg": "/Go-Fit-website/static/media/gym2.e1dfd4d84698e5c76c68.jpg",
+    "static/media/gym6.jpg": "/Go-Fit-website/static/media/gym6.c86b29c987be27d2efa0.jpg",
+    "static/media/gym1.jpg": "/Go-Fit-website/static/media/gym1.8ded8e60d0162088d65d.jpg",
+    "static/media/gym7.jpg": "/Go-Fit-website/static/media/gym7.847a66e008d884386d50.jpg",
+    "static/media/gofitlogo4psblack.png": "/Go-Fit-website/static/media/gofitlogo4psblack.5344c31acd5b9705161a.png",
+    "static/media/lg.svg?io9a6k": "/Go-Fit-website/static/media/lg.09cd8e9be7081f216644.svg",
+    "static/media/lg.woff?io9a6k": "/Go-Fit-website/static/media/lg.356a0e9cb064c7a196c6.woff",
+    "static/media/lg.ttf?io9a6k": "/Go-Fit-website/static/media/lg.747d038541bfc6bb8ea9.ttf",
+    "static/media/lg.woff2?io9a6k": "/Go-Fit-website/static/media/lg.64b800aa30714fd916dc.woff2",
+    "index.html": "/Go-Fit-website/index.html",
+    "main.d528b155.css.map": "/Go-Fit-website/static/css/main.d528b155.css.map",
+    "main.36cbc982.js.map": "/Go-Fit-website/static/js/main.36cbc982.js.map",
+    "787.fb80194e.chunk.js.map": "/Go-Fit-website/static/js/787.fb80194e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d528b155.css",
+    "static/js/main.36cbc982.js"
+  ]
+}
